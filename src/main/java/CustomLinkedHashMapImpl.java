@@ -1,7 +1,6 @@
 import java.util.Objects;
 
 public class CustomLinkedHashMapImpl<K, V> implements CustomLinkedHashMap {
-
     /**
      * Контейнер для объекта.
      */
